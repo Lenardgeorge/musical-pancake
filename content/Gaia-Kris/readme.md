@@ -2,7 +2,7 @@
 
 You will create the recipe for _**Apam Balik**_. To do soyou will need to create a document adding the following details:
 
-<img src="https://raw.githubusercontent.com/Lenardgeorge/musical-pancake/master/content/Carla-Karl/images/cover.jpeg" alt="Readme cover picture" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/Lenardgeorge/musical-pancake/master/content/Carla-Karl/images/cover.jpeg" alt="Readme cover picture" style="zoom:20%;" />
 
 
 
