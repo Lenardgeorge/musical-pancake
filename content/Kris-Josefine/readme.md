@@ -1,6 +1,6 @@
 # PANCAKE RECIPE INSTRUCTIONS
 
-You will create the recipe for _**Pikelets**_. To do soyou will need to create a document adding the following details:
+You will create the recipe for _**Crêpes**_. To do soyou will need to create a document adding the following details:
 
 <img src="https://raw.githubusercontent.com/Lenardgeorge/musical-pancake/master/content/Carla-Karl/images/cover.jpeg" alt="Readme cover picture" style="zoom:20%;" />
 
@@ -12,4 +12,5 @@ You will create the recipe for _**Pikelets**_. To do soyou will need to create a
 * Step-by-step (5 steps max) ellaborating process
 * Serving instructions.
 
-You will find  [here](content/Jose-Lenard/MUSICAL_PANCAKE_RECIPE .md) a template document that you can use to create your recipe. (Please, don't edit it, create a copy on your folder to work with it)
+You will find  [here](https://github.com/Lenardgeorge/musical-pancake/blob/master/content/Jose-Lenard/MUSICAL_PANCAKE_RECIPE%20.md) a template document that you can use to create your recipe. (Please, don't edit it, create a copy on your folder to work with it)
+
