@@ -11,6 +11,7 @@ You will create the recipe for _**Apam Balik**_. To do soyou will need to create
 * Ingredient list (5 ingredients(max) with a picture of each one
 * Step-by-step (5 steps max) ellaborating process
 * Serving instructions.
+* close the doc
 
 You will find  [here](https://github.com/Lenardgeorge/musical-pancake/blob/master/content/Jose-Lenard/MUSICAL_PANCAKE_RECIPE%20.md) a template document that you can use to create your recipe. (Please, don't edit it, create a copy on your folder to work with it)
 test
