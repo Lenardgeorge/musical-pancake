@@ -22,11 +22,8 @@ This is a tutorial about how to make the best **Buttermilk Pancake** that you ha
 
 <img src="https://raw.githubusercontent.com/Lenardgeorge/musical-pancake/master/content/Carla-Fabricio/images/cover.jpeg" alt="Readme cover picture" style="zoom:50%;" />
 
-* Ingredient 1
-* Ingredient 2 
-* Ingredient 3 
-* Ingredient 4 
-* Ingredient 5
-
-
-
+* Ingredient A
+* Ingredient B
+* Ingredient C
+* Ingredient D
+* Ingredient E
