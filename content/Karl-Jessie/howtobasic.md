@@ -1,0 +1,15 @@
+- collect the ingredients
+  - bananas
+  - flour
+  - cinnamon
+
+- mash it all together
+  - use force
+  - be strict
+  - leave no prisoners
+- fry
+  - fry em
+  - flip em
+- conclusion
+  - bananas
+  - pancakes
