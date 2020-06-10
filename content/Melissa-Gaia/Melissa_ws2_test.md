@@ -6,6 +6,6 @@ This is a text file for workshop 2 by Melissa the Great
 
 
 
-# This is a title
+# This is an image of two dogs
 
- !(Melissa)[(images/dog.jpg)]
+ ![Doggie](images/dog.jfif)
