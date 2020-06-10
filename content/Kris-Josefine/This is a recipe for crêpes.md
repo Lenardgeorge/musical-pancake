@@ -1,12 +1,4 @@
 
-**This is a recipe for crêpes**
-
-* Cover picture of the recipe
-* Brief intro to the pancake
-* Ingredient list (5 ingredients(max) with a picture of each one
-* Step-by-step (5 steps max) elaborate process
-* Serving instructions.
-
 ## MUSICAL PANCAKE RECIPE
 ___
 
