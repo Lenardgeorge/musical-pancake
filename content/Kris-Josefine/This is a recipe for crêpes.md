@@ -8,7 +8,7 @@ ___
 This is the recipe for the most crunchy, delicious, fabulous crêpe you will ever taste.
 ___
 
-## INGREDIENTS
+## INGREDI
 
 ### Batter
 * flour 
