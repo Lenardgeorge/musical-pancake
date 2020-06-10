@@ -13,5 +13,3 @@ You will create the recipe for _**Buttermilk Pancake**_. To do soyou will need t
 * Serving instructions.
 
 You will find  [here](https://github.com/Lenardgeorge/musical-pancake/blob/master/content/Jose-Lenard/MUSICAL_PANCAKE_RECIPE%20.md) a template document that you can use to create your recipe. (Please, don't edit it, create a copy on your folder to work with it)
-
-CAN YOU SEE THIS CHANGE????
