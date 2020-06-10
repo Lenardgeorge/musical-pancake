@@ -1,16 +1,8 @@
 
-**This is a recipe for crêpes**
-
-* Cover picture of the recipe
-* Brief intro to the pancake
-* Ingredient list (5 ingredients(max) with a picture of each one
-* Step-by-step (5 steps max) elaborate process
-* Serving instructions.
-
 ## MUSICAL PANCAKE RECIPE
 ___
 
-<img src="https://img.koket.se/standard-mega/crepes-med-nutella-banan-och-gradde.jpg.webp" alt="Readme cover picture" style="zoom:20%;" />
+<img src="https://img.koket.se/standard-mega/crepes-med-nutella-banan-och-gradde.jpg.webp" alt="Readme cover picture" style="zoom:40%;" />
 
 This is the recipe for the most crunchy, delicious, fabulous crêpe you will ever taste.
 ___
