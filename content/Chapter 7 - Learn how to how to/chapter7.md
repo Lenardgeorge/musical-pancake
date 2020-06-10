@@ -1,5 +1,4 @@
-
-
+<link href="style.css" rel="stylesheet">
 
 # chapter 1
 Learning how to do something is simple: you just have to do it.
@@ -20,3 +19,4 @@ It is done.
 
 ## Activity
 
+![bike](images/bicycle.png)
