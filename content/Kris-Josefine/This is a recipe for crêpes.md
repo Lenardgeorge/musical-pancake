@@ -1,13 +1,14 @@
 
 ## MUSICAL PANCAKE RECIPE
 ___
+![recipeCover](images/crepes.jpg)
 
-<img src="https://img.koket.se/standard-mega/crepes-med-nutella-banan-och-gradde.jpg.webp" alt="Readme cover picture" style="zoom:40%;" />
+<!-- <img src="https://img.koket.se/standard-mega/crepes-med-nutella-banan-och-gradde.jpg.webp" alt="Readme cover picture" style="zoom:40%;" /> -->
 
 This is the recipe for the most crunchy, delicious, fabulous crêpe you will ever taste.
 ___
 
-## INGREDIENTS
+## INGREDI
 
 ### Batter
 * flour 
