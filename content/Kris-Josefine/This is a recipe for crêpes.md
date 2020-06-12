@@ -11,9 +11,8 @@ ___
 
 ### Batter
 * flour 
-* eggs
 * salt
-* cream
+* oaycream
 * milk
 
 ### Filling
