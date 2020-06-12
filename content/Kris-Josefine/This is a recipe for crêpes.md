@@ -35,5 +35,6 @@ ___
 1. Put the wipped cream, banana and the nutella inside the crêpe and fold it up.
 2. Serve immediately (otherwise the cream will melt and lose its fluffiness).
 
-
 ## ENJOY!
+
+With lots of Syrup. 
