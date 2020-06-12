@@ -13,3 +13,4 @@ This is gonna be the best buttermilk pancake that you have ever see
 * Toons of buttermilk
 * Vanilla extract  as vanilla as the Scandinavians 
 * Cinnamon ( because who doesn't love cinnamon)
+* Potatis
