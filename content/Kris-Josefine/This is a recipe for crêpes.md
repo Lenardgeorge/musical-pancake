@@ -13,7 +13,7 @@ ___
 * flour 
 * salt
 * oatcream
-* milk
+* soymilk/oatmilk
 
 ### Filling
 * nutella
