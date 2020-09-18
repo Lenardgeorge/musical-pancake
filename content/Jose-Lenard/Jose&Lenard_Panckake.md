@@ -1,6 +1,6 @@
 # Breakfast Recipe
 
-* Put some milk on a cup
+* Put some milk on a cup, we will use it later on
 * Put your coffe to warm
 * Once the coffe 
 
