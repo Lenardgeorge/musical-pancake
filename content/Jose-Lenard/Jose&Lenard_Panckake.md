@@ -1,8 +1,8 @@
 # Breakfast Recipe
 
-* Put some milk on a cup, we will use it later on
+* Put some milk on a cup
 * Put your coffe to warm
-* Once the coffe 
+* Once the 
 
 # Lenards Stuff 
 
@@ -13,6 +13,7 @@
 Making changes here 
 
 Jose changes here
+
 
 
 
@@ -35,4 +36,5 @@ If wandered relation no surprise of screened doubtful. Overcame no insisted ye o
 Am no an listening depending up believing. Enough around remove to barton agreed regret in or it. Advantage mr estimable be commanded provision. Year well shot deny shew come now had. Shall downs stand marry taken his for out. Do related mr account brandon an up. Wrong for never ready ham these witty him. Our compass see age uncivil matters weather forbade her minutes. Ready how but truth son new under. 
 
 Quick six blind smart out burst. Perfectly on furniture dejection determine my depending an to. Add short water court fat. Her bachelor honoured perceive securing but desirous ham required. Questions deficient acuteness to engrossed as. Entirely led ten humoured greatest and yourself. Besides ye country on observe. She continue appetite endeavor she judgment interest the met. For she surrounded motionless fat resolution may. 
+
 
